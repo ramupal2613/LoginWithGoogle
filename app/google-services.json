@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869657349647",
+    "project_id": "logindemo-6c306"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869657349647:android:c2347d08e2277ba4",
+        "android_client_info": {
+          "package_name": "dnk.com.loginwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869657349647-u6fj1jnl55oq2gqd0qd5t0q4363kc2as.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "869657349647-srpsg8juc6gj82a7287bm6d8dqthals9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dnk.com.loginwithgoogle",
+            "certificate_hash": "292963beb933e286b57bedb3d284fc39fb564bc2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOMgCUOrhvIVQzk4SI2UYNxyX-64ae7EY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
